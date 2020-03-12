@@ -43,9 +43,4 @@ def printer(attendees)
   rooms_assigned 
 end
 
-peeps = ["john","jim","josh","job"]
-puts printer(peeps)
-
-
-
 
